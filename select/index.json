@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ネロイズム",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-17T10:41:49.943705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネロイズム(feat. 鳴花ミコト)",
+      "artist": "Kairiki Bear",
+      "has_synced": false,
+      "path": "select/01_ネロイズム(feat._鳴花ミコト)_Kairiki_Bear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネロイズム",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/02_ネロイズム_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ネロイズム",
+      "artist": "鳴花ミコト/かいりきベア",
+      "has_synced": true,
+      "path": "select/03_ネロイズム_鳴花ミコト_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ネロイズム",
+      "artist": "Kairiki Bear, 鳴花ミコト",
+      "has_synced": true,
+      "path": "select/04_ネロイズム_Kairiki_Bear,_鳴花ミコト.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ネロイズム",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/05_ネロイズム_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ネロイズム(feat. 鳴花ミコト)",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/06_ネロイズム(feat._鳴花ミコト)_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ネロイズム",
+      "artist": "鳴花ミコト",
+      "has_synced": true,
+      "path": "select/07_ネロイズム_鳴花ミコト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネロイズム",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_ネロイズム_かいりきベア.txt"
+    }
+  ]
+}
